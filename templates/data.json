@@ -1,10 +1,10 @@
 {
-  "link": {
-    "name": "link.png",
-    "x": 3859,
-    "y": 943,
-    "width": 237,
-    "height": 22 
+  "Pinkie_Pie": {
+    "name": "Pinkie_Pie.png",
+    "x": 3940,
+    "y": 881,
+    "width": 80,
+    "height": 61 
 },
    "Anthem": {
     "name": "Anthem.png",
